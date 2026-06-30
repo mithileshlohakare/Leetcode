@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mithileshlohakare/Leetcode/tree/master/0043-multiply-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/mithileshlohakare/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mithileshlohakare/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/mithileshlohakare/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/mithileshlohakare/Leetcode/tree/master/0204-count-primes) |
 ## Enumeration
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/mithileshlohakare/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/mithileshlohakare/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
