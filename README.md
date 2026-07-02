@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mithileshlohakare/Leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/mithileshlohakare/Leetcode/tree/master/0066-plus-one) |
+| [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/mithileshlohakare/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0229-majority-element-ii) |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1332-remove-palindromic-subsequences](https://github.com/mithileshlohakare/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
