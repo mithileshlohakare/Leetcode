@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/mithileshlohakare/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1833-maximum-ice-cream-bars](https://github.com/mithileshlohakare/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithileshlohakare/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2574-left-and-right-sum-differences](https://github.com/mithileshlohakare/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mithileshlohakare/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mithileshlohakare/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [2574-left-and-right-sum-differences](https://github.com/mithileshlohakare/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
 | ------- |
