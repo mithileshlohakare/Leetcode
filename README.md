@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mithileshlohakare/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/mithileshlohakare/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mithileshlohakare/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/mithileshlohakare/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1189-maximum-number-of-balloons](https://github.com/mithileshlohakare/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1332-remove-palindromic-subsequences](https://github.com/mithileshlohakare/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mithileshlohakare/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/mithileshlohakare/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mithileshlohakare/Leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0229-majority-element-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/mithileshlohakare/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
