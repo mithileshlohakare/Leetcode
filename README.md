@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mithileshlohakare/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mithileshlohakare/Leetcode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/mithileshlohakare/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/mithileshlohakare/Leetcode/tree/master/0066-plus-one) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mithileshlohakare/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
