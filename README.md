@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mithileshlohakare/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mithileshlohakare/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0396-rotate-function](https://github.com/mithileshlohakare/Leetcode/tree/master/0396-rotate-function) |
 | [1833-maximum-ice-cream-bars](https://github.com/mithileshlohakare/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithileshlohakare/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/mithileshlohakare/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/mithileshlohakare/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/mithileshlohakare/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/mithileshlohakare/Leetcode/tree/master/0204-count-primes) |
+| [0396-rotate-function](https://github.com/mithileshlohakare/Leetcode/tree/master/0396-rotate-function) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mithileshlohakare/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mithileshlohakare/Leetcode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/mithileshlohakare/Leetcode/tree/master/0396-rotate-function) |
 <!---LeetCode Topics End-->
