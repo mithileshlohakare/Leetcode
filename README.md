@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mithileshlohakare/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/mithileshlohakare/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mithileshlohakare/Leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0229-majority-element-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/mithileshlohakare/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
