@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -110,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mithileshlohakare/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
 | [1332-remove-palindromic-subsequences](https://github.com/mithileshlohakare/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 ## Backtracking
 |  |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/mithileshlohakare/Leetcode/tree/master/0396-rotate-function) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
