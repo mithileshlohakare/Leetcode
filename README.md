@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mithileshlohakare/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mithileshlohakare/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0396-rotate-function](https://github.com/mithileshlohakare/Leetcode/tree/master/0396-rotate-function) |
+| [0977-squares-of-a-sorted-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/mithileshlohakare/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/mithileshlohakare/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0229-majority-element-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/mithileshlohakare/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mithileshlohakare/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/mithileshlohakare/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 ## Backtracking
 |  |
