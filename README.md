@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/mithileshlohakare/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3536-maximum-product-of-two-digits](https://github.com/mithileshlohakare/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mithileshlohakare/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/mithileshlohakare/Leetcode/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/mithileshlohakare/Leetcode/tree/master/0396-rotate-function) |
+| [3536-maximum-product-of-two-digits](https://github.com/mithileshlohakare/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mithileshlohakare/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mithileshlohakare/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
