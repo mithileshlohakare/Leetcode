@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mithileshlohakare/Leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/mithileshlohakare/Leetcode/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mithileshlohakare/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/mithileshlohakare/Leetcode/tree/master/0204-count-primes) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/mithileshlohakare/Leetcode/tree/master/0120-triangle) |
 | [0396-rotate-function](https://github.com/mithileshlohakare/Leetcode/tree/master/0396-rotate-function) |
 ## Linked List
 |  |
