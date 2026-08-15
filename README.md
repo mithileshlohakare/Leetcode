@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mithileshlohakare/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/mithileshlohakare/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mithileshlohakare/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/mithileshlohakare/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1332-remove-palindromic-subsequences](https://github.com/mithileshlohakare/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithileshlohakare/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mithileshlohakare/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/mithileshlohakare/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mithileshlohakare/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mithileshlohakare/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mithileshlohakare/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mithileshlohakare/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mithileshlohakare/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
