@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/mithileshlohakare/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/mithileshlohakare/Leetcode/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mithileshlohakare/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mithileshlohakare/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/mithileshlohakare/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/mithileshlohakare/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0213-house-robber-ii) |
 | [0396-rotate-function](https://github.com/mithileshlohakare/Leetcode/tree/master/0396-rotate-function) |
 ## Linked List
 |  |
