@@ -228,17 +228,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mithileshlohakare/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mithileshlohakare/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mithileshlohakare/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mithileshlohakare/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mithileshlohakare/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mithileshlohakare/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mithileshlohakare/Leetcode/tree/master/0836-rectangle-overlap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mithileshlohakare/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
