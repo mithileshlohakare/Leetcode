@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/mithileshlohakare/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/mithileshlohakare/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithileshlohakare/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mithileshlohakare/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2574-left-and-right-sum-differences](https://github.com/mithileshlohakare/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mithileshlohakare/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithileshlohakare/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mithileshlohakare/Leetcode/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/mithileshlohakare/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mithileshlohakare/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mithileshlohakare/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mithileshlohakare/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/mithileshlohakare/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
