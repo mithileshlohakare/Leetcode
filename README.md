@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/mithileshlohakare/Leetcode/tree/master/0396-rotate-function) |
 | [0724-find-pivot-index](https://github.com/mithileshlohakare/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mithileshlohakare/Leetcode/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/mithileshlohakare/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/mithileshlohakare/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Math
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mithileshlohakare/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mithileshlohakare/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,9 +227,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mithileshlohakare/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
@@ -274,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mithileshlohakare/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mithileshlohakare/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
