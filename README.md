@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mithileshlohakare/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/mithileshlohakare/Leetcode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/mithileshlohakare/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/mithileshlohakare/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
