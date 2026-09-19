@@ -1,27 +1,21 @@
 class Solution {
-
-    public void subset(int idx, int[] nums,List<Integer> ds, List<List<Integer>> ans) {
-
-        ans.add(new ArrayList<>(ds));
-
-        for (int i = idx; i < nums.length; i++) {
-
-            if (i > idx && nums[i] == nums[i - 1]) continue;
-
-            ds.add(nums[i]);
-            subset(i + 1, nums, ds, ans);
-            ds.remove(ds.size() - 1);
-        }
-    }
-
+    List<List<Integer>> output;
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-
-        Arrays.sort(nums);
-
-        List<List<Integer>> ans = new ArrayList<>();
-
-        subset(0, nums, new ArrayList<>(), ans);
-
-        return ans;
+        Arrays.sort( nums ); //To handle duplicate first we sort the array ( adjacent elements will be similar )
+        output = new ArrayList();
+        backTracking( 0, nums, new ArrayList() );
+        return output;
+    }
+    
+    public void backTracking( int index, int[] nums, List<Integer> list ){
+        output.add( new ArrayList(list) );
+        for( int i = index;i < nums.length; i++ )
+        {
+            if( i != index && nums[i] == nums[i-1] ) //skip the duplicates, except for the first time
+                continue;
+            list.add( nums[i]); //include
+            backTracking(i+1,nums,list); //explore
+            list.remove( list.size()-1);//backtrack, remove the element
+        }
     }
 }
