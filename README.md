@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mithileshlohakare/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/mithileshlohakare/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/mithileshlohakare/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mithileshlohakare/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mithileshlohakare/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/mithileshlohakare/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/mithileshlohakare/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/mithileshlohakare/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mithileshlohakare/Leetcode/tree/master/0912-sort-an-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/mithileshlohakare/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
