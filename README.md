@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mithileshlohakare/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/mithileshlohakare/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1332-remove-palindromic-subsequences](https://github.com/mithileshlohakare/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithileshlohakare/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithileshlohakare/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mithileshlohakare/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithileshlohakare/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/mithileshlohakare/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/mithileshlohakare/Leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mithileshlohakare/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithileshlohakare/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mithileshlohakare/Leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mithileshlohakare/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithileshlohakare/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
